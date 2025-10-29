@@ -1,0 +1,34 @@
+2025-10-26 16:34:02,063 - INFO - CLI started with args: ['-c']
+2025-10-26 16:34:02,064 - INFO - CLI: Starting backup (manual)...
+2025-10-26 16:34:02,084 - INFO - Starting backup: //192.168.150.179/share2/kitsu -> I:/seif/kitsu
+2025-10-26 16:34:03,076 - INFO - Backup finished successfully.
+2025-10-26 16:34:03,077 - INFO - CLI: Backup completed successfully.
+2025-10-26 16:34:03,078 - INFO - CLI: -c specified (copy only). No run requested.
+2025-10-26 16:34:39,783 - INFO - CLI started with args: ['-c']
+2025-10-26 16:34:39,783 - INFO - CLI: Starting backup (manual)...
+2025-10-26 16:34:39,789 - INFO - Starting backup: //192.168.150.179/share2/kitsu -> I:/seif/kitsu
+2025-10-26 16:34:40,193 - INFO - Backup finished successfully.
+2025-10-26 16:34:40,194 - INFO - CLI: Backup completed successfully.
+2025-10-26 16:34:40,194 - INFO - CLI: -c specified (copy only). No run requested.
+2025-10-26 16:36:02,914 - INFO - CLI started with args: ['-c']
+2025-10-26 16:36:02,915 - INFO - CLI: Starting backup (manual)...
+2025-10-26 16:36:02,920 - INFO - Starting backup: I:/seif/slack -> I:/seif/slack2
+2025-10-26 16:36:27,432 - INFO - Backup finished successfully.
+2025-10-26 16:36:27,432 - INFO - CLI: Backup completed successfully.
+2025-10-26 16:36:27,432 - INFO - CLI: -c specified (copy only). No run requested.
+2025-10-26 16:36:36,468 - INFO - CLI started with args: ['-r', 'slack.exe']
+2025-10-26 16:36:36,468 - INFO - CLI: Starting backup (manual)...
+2025-10-26 16:36:36,469 - INFO - Starting backup: I:/seif/slack -> I:/seif/slack2
+2025-10-26 16:36:38,011 - INFO - Backup finished successfully.
+2025-10-26 16:36:38,011 - INFO - CLI: Backup completed successfully.
+2025-10-26 16:36:38,012 - INFO - CLI: Attempting to run: slack.exe
+2025-10-26 16:36:38,029 - INFO - Running file: I:/seif/slack2\slack.exe
+2025-10-26 16:36:38,106 - INFO - CLI: Successfully started slack.exe
+2025-10-27 18:17:31,469 - INFO - CLI started with args: ['-r', 'slack.exe']
+2025-10-27 18:17:31,470 - INFO - CLI: Starting backup (manual)...
+2025-10-27 18:17:31,511 - INFO - Starting backup: I:/seif/slack -> I:/seif/slack2
+2025-10-27 18:17:55,647 - INFO - Backup finished successfully.
+2025-10-27 18:17:55,648 - INFO - CLI: Backup completed successfully.
+2025-10-27 18:17:55,649 - INFO - CLI: Attempting to run: slack.exe
+2025-10-27 18:17:55,723 - INFO - Running file: I:/seif/slack2\slack.exe
+2025-10-27 18:17:55,804 - INFO - CLI: Successfully started slack.exe

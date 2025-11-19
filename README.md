@@ -102,3 +102,11 @@ Device name
 Folder name
 Timestamp
 
+
+<img width="922" height="732" alt="image" src="https://github.com/user-attachments/assets/cadaf1a4-bdc0-4cfb-a72d-bcc0448f130c" />
+<img width="807" height="593" alt="image" src="https://github.com/user-attachments/assets/a91a9dfa-22f0-4d6f-b071-7c88272191e1" />
+<img width="882" height="728" alt="image" src="https://github.com/user-attachments/assets/362d728d-1df3-44ac-8163-bb9b55d92daf" />
+<img width="405" height="470" alt="image" src="https://github.com/user-attachments/assets/05274f31-d95f-42f7-ba81-557a6ad8af60" />
+
+in last image you should write the username of your device and the password 
+

@@ -16,14 +16,12 @@ A comprehensive and robust solution for managing backups in IT environments. It 
 
 ## 📦 Installation and Setup
 
-This project requires external packages for managing the Windows service and creating the GUI.
+ - This project requires external packages for managing the Windows service and creating the GUI.
 
 ### Prerequisites
 
-Ensure you have **Python 3.x** installed.
-
-and requirements.txt
-file
+*Ensure you have **Python 3.x** installed and requirements.txt
+file*
 
 ---
 
@@ -92,15 +90,16 @@ Code STATE : 1 STOPPED
 - 
 backup_cli.py
 
-Run manual backups with optional file execution.
+ - Run manual backups with optional file execution.
 
 🔹 Copy Only
 
-python backup_cli.py -c
+ - python backup_cli.py -c
 
 🔹 Copy + Run File
 
-python backup_cli.py -r namefileyouwantexe
+ - python backup_cli.py -r namefileyouwantexe
+
 
 Example:
 
@@ -153,11 +152,11 @@ Documentation
 
 📣 Logging & History
 -
-Logs are saved to run_history.log and service.log
+ - Logs are saved to run_history.log and service.log
 
-Backup history is stored in backup_sessions.sqlite
+ - Backup history is stored in backup_sessions.sqlite
 
-GUI displays the latest 50 sessions with:
+ - GUI displays the latest 50 sessions with:
 
 User name
 

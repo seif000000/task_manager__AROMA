@@ -124,6 +124,7 @@ python backup_gui.py
 - Open destination folder directly
 
 🗂️ Project Structure (After Running)
+=
 
 Code/
 
@@ -174,3 +175,4 @@ Timestamp
 ---
 in last image you should write the username of your device and the password 
 ---
+

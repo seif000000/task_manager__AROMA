@@ -1305,3 +1305,53 @@
 2025-10-27 18:17:55,723 - INFO - Running file: I:/seif/slack2\slack.exe
 2025-10-27 18:17:55,723 - INFO - Running file: I:/seif/slack2\slack.exe
 2025-10-27 18:17:55,804 - INFO - CLI: Successfully started slack.exe
+2025-11-19 16:26:26,513 - INFO - Service started.
+2025-11-19 16:26:26,686 - ERROR - Execution error: No module named 'sqlalchemy'
+2025-11-19 16:27:26,692 - ERROR - Execution error: No module named 'sqlalchemy'
+2025-11-19 16:28:26,698 - ERROR - Execution error: No module named 'sqlalchemy'
+2025-11-19 16:29:26,703 - ERROR - Execution error: No module named 'sqlalchemy'
+2025-11-19 16:30:26,706 - ERROR - Execution error: No module named 'sqlalchemy'
+2025-11-19 16:31:26,709 - ERROR - Execution error: No module named 'sqlalchemy'
+2025-11-19 16:32:26,713 - ERROR - Execution error: No module named 'sqlalchemy'
+2025-11-19 16:33:26,718 - ERROR - Execution error: No module named 'sqlalchemy'
+2025-11-19 16:34:26,724 - ERROR - Execution error: No module named 'sqlalchemy'
+2025-11-19 16:35:26,729 - ERROR - Execution error: No module named 'sqlalchemy'
+2025-11-19 16:36:26,734 - ERROR - Execution error: No module named 'sqlalchemy'
+2025-11-19 16:37:29,973 - ERROR - Execution error: [WinError 21] The device is not ready: 'I:/seif/slack'
+2025-11-19 16:38:30,005 - ERROR - Execution error: [WinError 21] The device is not ready: 'I:/seif/slack'
+2025-11-19 16:39:30,041 - ERROR - Execution error: [WinError 21] The device is not ready: 'I:/seif/slack'
+2025-11-19 16:39:35,424 - INFO - Service stopping...
+2025-11-19 16:39:35,424 - INFO - Service stopped.
+2025-11-19 16:40:02,009 - INFO - Service started.
+2025-11-19 16:40:02,882 - ERROR - Execution error: [WinError 21] The device is not ready: 'I:/seif/slack'
+2025-11-19 16:41:02,906 - ERROR - Execution error: [WinError 21] The device is not ready: 'I:/seif/slack'
+2025-11-19 16:42:17,069 - INFO - Backup executed successfully.
+2025-11-19 16:43:16,576 - INFO - CLI started with args: ['-r', 'slack.exe']
+2025-11-19 16:43:16,576 - INFO - CLI: Starting backup (manual)...
+2025-11-19 16:43:16,594 - ERROR - Backup aborted: source does not exist: D:seif/slack
+2025-11-19 16:43:16,594 - ERROR - Backup aborted: source does not exist: D:seif/slack
+2025-11-19 16:43:16,595 - ERROR - CLI: Backup did not complete (skipped or failed). Exiting.
+2025-11-19 16:43:17,788 - INFO - Backup executed successfully.
+2025-11-19 16:43:41,075 - INFO - CLI started with args: ['-r', 'slack.exe']
+2025-11-19 16:43:41,076 - INFO - CLI: Starting backup (manual)...
+2025-11-19 16:43:41,077 - ERROR - Backup aborted: source does not exist: D:seif/slack
+2025-11-19 16:43:41,078 - ERROR - Backup aborted: source does not exist: D:seif/slack
+2025-11-19 16:43:41,079 - ERROR - CLI: Backup did not complete (skipped or failed). Exiting.
+2025-11-19 16:44:18,532 - INFO - Backup executed successfully.
+2025-11-19 16:44:41,014 - INFO - CLI started with args: ['-r', 'slack.exe']
+2025-11-19 16:44:41,015 - INFO - CLI: Starting backup (manual)...
+2025-11-19 16:44:41,028 - ERROR - Backup aborted: source does not exist: D:seif/slack
+2025-11-19 16:44:41,028 - ERROR - Backup aborted: source does not exist: D:seif/slack
+2025-11-19 16:44:41,029 - ERROR - CLI: Backup did not complete (skipped or failed). Exiting.
+2025-11-19 16:45:19,911 - INFO - Backup executed successfully.
+2025-11-19 16:45:35,119 - INFO - CLI started with args: ['-r', 'slack.exe']
+2025-11-19 16:45:35,120 - INFO - CLI: Starting backup (manual)...
+2025-11-19 16:45:35,142 - INFO - Starting backup: D:/seif/slack -> D:/seif/slack2
+2025-11-19 16:45:35,143 - INFO - Starting backup: D:/seif/slack -> D:/seif/slack2
+2025-11-19 16:45:36,578 - INFO - Backup finished successfully.
+2025-11-19 16:45:36,578 - INFO - Backup finished successfully.
+2025-11-19 16:45:36,579 - INFO - CLI: Backup completed successfully.
+2025-11-19 16:45:36,579 - INFO - CLI: Attempting to run: slack.exe
+2025-11-19 16:45:36,608 - INFO - Running file: D:/seif/slack2\slack.exe
+2025-11-19 16:45:36,608 - INFO - Running file: D:/seif/slack2\slack.exe
+2025-11-19 16:45:36,695 - INFO - CLI: Successfully started slack.exe
